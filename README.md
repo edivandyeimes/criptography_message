@@ -1,4 +1,4 @@
-# encrypt message
+# Encrypt Message
 
 1.run Cripto.c to encrypt
 
